@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1701113037266" clover="3.2.0">
+  <project timestamp="1701113037266" name="All files">
+    <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="18" coveredelements="18" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
+    <file name="BinarySearchList.js" path="/Users/corneliusdavis/Developer/Personal/DsAndAlgos/structures-and-algos/javascript/algos/BinarySearchList.js">
+      <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="10" count="54" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="18" count="4" type="stmt"/>
+      <line num="20" count="4" type="stmt"/>
+      <line num="22" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
